@@ -1,3 +1,0 @@
-# include in a module, the methods are added as instance methods
-# if you extend, the methods of the module are added as class methods
-

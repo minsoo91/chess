@@ -1,0 +1,6 @@
+require './pieces/bishop.rb'
+require './pieces/king.rb'
+require './pieces/knight.rb'
+require './pieces/pawn.rb'
+require './pieces/queen.rb'
+require './pieces/rook.rb'
